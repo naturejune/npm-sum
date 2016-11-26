@@ -1,0 +1,12 @@
+{
+  "name": "npm-sum",
+  "version": "1.0.0",
+  "description": "npm sum package",
+  "main": "src/index.js",
+  "repository": {
+    "url": "git@github.com:naturejune/npm-sum.git",
+    "type": "git"
+  },
+  "author": "yd_june@163.com",
+  "license": "MIT"
+}
